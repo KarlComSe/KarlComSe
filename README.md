@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on an app that will be ready "next month" and will revolutionize... something. Stay tuned!
+- 💬 Ask me about:
+  - Digging into rabbit holes
+  - Over-engineering solutions
+  - Researching the "best" technology stack
+  - "Almost finishing" and how to never quite get to the "ship the MVP"
+
+✨ _💃🌶️ 🏊‍♂️🚴‍♂️🏃‍♂️🌱🌍_ ✨
+
 <!--
 **KarlComSe/KarlComSe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
